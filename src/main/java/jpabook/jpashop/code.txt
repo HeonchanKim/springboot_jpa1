@@ -1,0 +1,10 @@
+0424 집컴퓨터
+gradlew.bat clean build
+
+-jar 실행하기전 경로 변경후 실행
+cd build/libs
+D:\다운로드\spring\jpashop\build\libs>java -jar jpashop-0.0.1-SNAPSHOT.jar
+
+
+
+
