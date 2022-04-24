@@ -1,4 +1,4 @@
-0424 집컴퓨터
+0424 집컴퓨터(~JPA와 DB 설정, 동작확인)
 gradlew.bat clean build
 
 -jar 실행하기전 경로 변경후 실행
