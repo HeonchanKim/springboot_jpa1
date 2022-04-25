@@ -1,4 +1,6 @@
 0424 집컴퓨터(~JPA와 DB 설정, 동작확인)
+환경설정에서 gradle -> Run tests using : IntelliJ IDEA로 변경
+
 gradlew.bat clean build
 
 -jar 실행하기전 경로 변경후 실행
