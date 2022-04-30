@@ -7,6 +7,10 @@ gradlew.bat clean build
 cd build/libs
 D:\다운로드\spring\jpashop\build\libs>java -jar jpashop-0.0.1-SNAPSHOT.jar
 
+-----------------------------------------------------------------------------
+0430
+부트스트랩 다운로드 4.3.1
+링크 : https://getbootstrap.com/docs/4.3/getting-started/download/
 
 
 
